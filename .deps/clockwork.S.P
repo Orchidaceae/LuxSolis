@@ -1,0 +1,2 @@
+clockwork.S.o: clockwork.S
+clockwork.S :
